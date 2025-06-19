@@ -1,0 +1,20 @@
+{
+  "name": "FlashCardio",
+  "displayName": "FlashCardio",
+  "extra": {
+    "eas": {
+      "projectId": "385c74a7-c12f-4749-9620-16ba5f2fb8ae"
+    }
+  },
+  "android": {
+    "package": "com.thwinkhantnyarzaw11.flashcardio"
+  },
+  "owner": "thwinkhantnyarzaw11",
+  "runtimeVersion": {
+    "policy": "appVersion"
+  },
+  "updates": {
+    "url": "https://u.expo.dev/385c74a7-c12f-4749-9620-16ba5f2fb8ae"
+  },
+  "ios": {}
+}
